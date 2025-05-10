@@ -15,7 +15,7 @@ PANEL_COLOR = '#DBE2EF'
 TEXT_COLOR = '#333333'  
 
 # Chargement des données
-data = pd.read_csv('https://drive.google.com/file/d/1z-Kp-x0TVjrELqgpdrNmi3jmYS18Mnq0/view?usp=drive_link')
+data = pd.read_csv('https://drive.google.com/file/d/1z-Kp-x0TVjrELqgpdrNmi3jmYS18Mnq0/view?usp=sharing')
 
 
 # ventes par catégorie
